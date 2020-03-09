@@ -10,7 +10,7 @@
   <head>
     <title>$Title$</title>
     <script>
-        window.location.href="houtai/login.jsp";
+        window.location.href="qiantai/index.jsp";
     </script>
   </head>
   <body>

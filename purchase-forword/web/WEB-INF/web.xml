@@ -5,7 +5,7 @@
          version="4.0">
     <filter>
         <filter-name>EncodingFilter</filter-name>
-        <filter-class>com.ydgk.eight.filter.EncodingFilter2</filter-class>
+        <filter-class>com.ydgk.forword.filter.EncodingFilter2</filter-class>
         <init-param>
             <param-name>encoding</param-name>
             <param-value>UTF-8</param-value>
